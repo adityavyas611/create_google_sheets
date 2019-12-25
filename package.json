@@ -1,0 +1,10 @@
+{
+  "name": "create-google-sheets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "googleapis": "^46.0.0"
+  }
+}
